@@ -14,5 +14,6 @@ project/plugins/project/
 
 # Eclipse
 .buildpath
+.classpath
 .project
 .settings/
